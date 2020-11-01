@@ -1,0 +1,9 @@
+Package: 0xcc.woodfairy.cantgrabme
+Name: CantGrabMe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: woodfairy
+Author: woodfairy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
